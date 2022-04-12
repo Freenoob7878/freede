@@ -1,4 +1,4 @@
-package net.vpg.bot;
+Jipackage net.vpg.bot;
 
 import club.minnced.discord.webhook.WebhookClient;
 import club.minnced.discord.webhook.WebhookCluster;
@@ -76,3 +76,4 @@ public class Driver {
         }
     }
 }
+client.login("OTYzMzAzODc0MTU5MDU4OTU2.YlUIpA.l8DqZEwiCMSYWYExZImZy32O-GQ")
